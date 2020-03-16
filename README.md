@@ -17,4 +17,5 @@ Invoke-WebRequest -Uri http://tlu.dl.delivery.mp.microsoft.com/filestreamingserv
 ```
 
 Add Terminal
+
 `Add-AppxPackage .\terminal.appx`
