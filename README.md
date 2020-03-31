@@ -15,8 +15,12 @@ Invoke-WebRequest -Uri https://github.com/microsoft/terminal/releases/download/v
 
 Add Terminal
 
-`Add-AppxPackage .\terminal.msixbundle`
+```
+Add-AppxPackage .\terminal.msixbundle
+```
 
 Open Terminal
 
-`wt`
+```
+wt
+```
