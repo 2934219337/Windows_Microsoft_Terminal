@@ -1,3 +1,10 @@
+---
+title: terminal
+layout: page
+permalink: /terminal/
+navigation_weight: 4
+---
+
 # Windows_Microsoft_Terminal
 
 ## Download Terminal
