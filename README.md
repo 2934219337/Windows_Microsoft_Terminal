@@ -43,7 +43,7 @@ and paste into Powershell with <kbd>Right Mouse Click</kbd> and press <kbd>Enter
 
 ### 4. Open Microsoft Terminal with
 
-#### Option A: Windows Powershell command.
+#### Windows Powershell command.
 
 Type:
 
@@ -53,7 +53,7 @@ and press <kbd>Enter</kbd>
 
 ---
 
-#### Option B: Windows Run Command.
+#### Or the Windows Run Command.
 
 Press <kbd>Win</kbd>+<kbd>R</kbd>
 
