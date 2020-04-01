@@ -1,6 +1,6 @@
 ---
 title: Terminal
-layout: page
+layout: repos
 permalink: /terminal/
 repository_weight: 1
 ---
