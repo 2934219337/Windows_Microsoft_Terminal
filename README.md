@@ -9,7 +9,7 @@ repository_weight: 1
 
 ---
 
-### Open Windows Powershell from powerusers menu.
+### 1. Open Windows Powershell from powerusers menu.
 
 Press <kbd>WIN</kbd>+<kbd>X</kbd> then <kbd>A</kbd> to open Windows Powershell (Admin) from powerusers menu.
 
@@ -17,7 +17,7 @@ Press <kbd>ALT</kbd>+<kbd>Y</kbd> to select <kbd>Yes</kbd> at the UAC prompt.
 
 ---
 
-### Download Microsoft Terminal package from GitHub.
+### 2. Download Microsoft Terminal package from GitHub.
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
 
@@ -29,7 +29,7 @@ and paste into Powershell with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd>Enter
 
 ---
 
-### Add Microsoft Terminal package.
+### 3. Add Microsoft Terminal package.
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
 
@@ -41,7 +41,9 @@ and paste into Powershell with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd>Enter
 
 ---
 
-### Open Microsoft Terminal with Windows Powershell command.
+### 4. Open Microsoft Terminal with
+
+#### Option A Windows Powershell command.
 
 Type:
 
@@ -51,7 +53,7 @@ and press <kbd>Enter</kbd>
 
 ---
 
-### Open Microsoft Terminal with Run command.
+#### Option B Windows Run Command.
 
 Press <kbd>Win</kbd>+<kbd>R</kbd>
 
