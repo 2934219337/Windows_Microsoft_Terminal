@@ -15,30 +15,30 @@ Press `ALT+Y` to select Yes at the UAC prompt.
 
 ### Download Terminal from GitHub.
 
-Copy and paste the following:
+Copy with `CTRL-C` and paste with `CTRL-V` the following:
 
 ```
 Invoke-WebRequest -Uri https://github.com/microsoft/terminal/releases/download/v0.9.433.0/Microsoft.WindowsTerminal_0.9.433.0_8wekyb3d8bbwe.msixbundle -OutFile terminal.msixbundle -UseBasicParsing
 ```
 
-Press `Enter`
+and press `Enter`
 
 ### Add Terminal package.
 
-Copy and paste the following:
+Copy with `CTRL-C` and paste with `CTRL-V` the following:
 
 ```
 Add-AppxPackage .\terminal.msixbundle
 ```
 
-Press `Enter`
+and press `Enter`
 
 ### Open Terminal with command.
 
-Copy and paste the following:
+Copy with `CTRL-C` and paste with `CTRL-V` the following:
 
 ```
 wt
 ```
 
-Press `Enter`
+and press `Enter`
