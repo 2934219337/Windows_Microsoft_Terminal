@@ -7,6 +7,14 @@ repository_weight: 1
 
 # Windows_Microsoft_Terminal
 
+## Open powershell from powerusers menu.
+
+Press `WIN+X` to open powerusers menu.
+
+Press `A` or click `Windows Powershell (Admin)`.
+
+Select `YES` at prompt.
+
 ## Download Terminal from GitHub.
 
 ```
