@@ -35,4 +35,8 @@ and paste into Powershell with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp
 
 ### Open Terminal with command.
 
-Type `wt` and press <kbd><samp>Enter</samp></kbd>
+Type:
+
+`wt` 
+
+and press <kbd><samp>Enter</samp></kbd>
