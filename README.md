@@ -15,24 +15,27 @@ Press <kbd>ALT</kbd>+<kbd>Y</kbd> to select <kbd><samp>Yes</samp></kbd> at the U
 
 ### Download Terminal from GitHub.
 
-Copy with <kbd>CTRL</kbd>+<kbd>C</kbd> and paste with <kbd>CTRL</kbd>+<kbd>V</kbd> the following:
+Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
 
 ```
 Invoke-WebRequest -Uri https://github.com/microsoft/terminal/releases/download/v0.9.433.0/Microsoft.WindowsTerminal_0.9.433.0_8wekyb3d8bbwe.msixbundle -OutFile terminal.msixbundle -UseBasicParsing
 ```
-
-and press <kbd><samp>Enter</samp></kbd>
+and paste with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp>Enter</samp></kbd>
 
 ### Add Terminal package.
 
-Copy with <kbd>CTRL</kbd>+<kbd>C</kbd> and paste with <kbd>CTRL</kbd>+<kbd>V</kbd> the following:
+Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
 
 ```
 Add-AppxPackage .\terminal.msixbundle
 ```
 
-and press <kbd><samp>Enter</samp></kbd>
+and paste with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp>Enter</samp></kbd>
 
 ### Open Terminal with command.
 
-Type `wt` and press <kbd><samp>Enter</samp></kbd>
+Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
+ ```
+wt
+``` 
+and paste with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp>Enter</samp></kbd>
