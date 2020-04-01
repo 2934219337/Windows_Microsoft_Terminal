@@ -37,8 +37,6 @@ and paste into Powershell with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
 
- ```
-wt
-``` 
+`wt` 
 
 and paste into Powershell with <kbd>CTRL</kbd>+<kbd>V</kbd> and press <kbd><samp>Enter</samp></kbd>
