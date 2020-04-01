@@ -2,7 +2,7 @@
 title: terminal
 layout: page
 permalink: /terminal/
-navigation_weight: 5
+repository_weight: 1
 ---
 
 # Windows_Microsoft_Terminal
