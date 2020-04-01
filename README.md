@@ -17,8 +17,6 @@ Press <kbd>ALT</kbd>+<kbd>Y</kbd> to select <kbd><samp>Yes</samp></kbd> at the U
 
 ---
 
----
-
 ### Download Microsoft Terminal package from GitHub.
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
