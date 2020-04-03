@@ -18,14 +18,22 @@ Second to the <a href="https://code.visualstudio.com/">VSCODE</a> text editor. T
 
 ---
 
+<details>
+<summary>Step One.</summary>
+  
 ### 1. Open Windows Powershell from powerusers menu.
 
 Press <kbd>WIN</kbd>+<kbd>X</kbd> then <kbd>A</kbd> to open Windows Powershell (Admin) from powerusers menu.
 
 Press <kbd>ALT</kbd>+<kbd>Y</kbd> to select <kbd>Yes</kbd> at the UAC prompt.
 
+</details>
+
 ---
 
+<details>
+<summary>Step Two.</summary>
+  
 ### 2. Download Microsoft Terminal package from GitHub.
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
@@ -36,8 +44,13 @@ Invoke-WebRequest -Uri https://github.com/microsoft/terminal/releases/download/v
 
 and paste into Powershell with <kbd>Right Mouse Click</kbd> and press <kbd>Enter</kbd>
 
+</details>
+
 ---
 
+<details>
+<summary>Step Three.</summary>
+  
 ### 3. Add Microsoft Terminal package.
 
 Copy the following with <kbd>CTRL</kbd>+<kbd>C</kbd>
@@ -48,8 +61,13 @@ Add-AppxPackage .\terminal.msixbundle
 
 and paste into Powershell with <kbd>Right Mouse Click</kbd> and press <kbd>Enter</kbd>
 
+</details>
+
 ---
 
+<details>
+<summary>Step Four.</summary>
+  
 ### 4. Open Microsoft Terminal with
 
 #### Windows Powershell command.
@@ -71,3 +89,7 @@ Type:
 `wt` 
 
 and press <kbd>Enter</kbd>
+
+</details>
+
+---
