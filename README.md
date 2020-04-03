@@ -71,5 +71,3 @@ Type:
 `wt` 
 
 and press <kbd>Enter</kbd>
-
----
